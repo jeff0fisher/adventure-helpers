@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "Adventure Helpers RP",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "helper_whistle": {
+      "textures": "textures/items/helper_whistle"
+    }
+  }
+}

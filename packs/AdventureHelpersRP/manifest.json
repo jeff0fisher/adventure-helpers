@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Adventure Helpers RP v0.1.6",
+    "description": "Resources for Adventure Helpers.",
+    "uuid": "5370d3c3-cf0b-46ac-af43-fc9c986fd9dd",
+    "version": [0, 1, 6],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "8192ce2c-9b81-4d4d-bc9c-b0c0a1b7254d",
+      "version": [0, 1, 6]
+    }
+  ]
+}

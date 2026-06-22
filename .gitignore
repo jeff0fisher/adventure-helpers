@@ -1,0 +1,14 @@
+# Generated package artifacts
+dist/*
+!dist/.gitkeep
+
+# Local Minecraft imports / extracted temp copies
+*.mcpack
+*.mcaddon
+*.zip
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
