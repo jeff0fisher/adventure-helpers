@@ -2,10 +2,12 @@
 dist/*
 !dist/.gitkeep
 
-# Local Minecraft imports / extracted temp copies
+# Local Minecraft imports / extracted temp copies (but allow releases folder)
 *.mcpack
 *.mcaddon
 *.zip
+!releases/**/*.mcpack
+!releases/**/*.mcaddon
 
 # OS/editor noise
 .DS_Store
